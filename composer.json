@@ -1,17 +1,17 @@
 {
-    "name": "uspdev/starter",
+    "name": "wgnann/webprint",
     "type": "project",
-    "description": "Esqueleto para nova aplicação Uspdev",
+    "description": "Sistema de impressão Web.",
     "authors": [
         {
-            "name": "Masaki Kawabata Neto",
-            "email": "kawabata@usp.br",
-            "homepage": "https://github.com/masakik"
+            "name": "Will Gnann",
+            "email": "gnann@ime.usp.br",
+            "homepage": "https://github.com/wgnann"
         }
     ],
     "keywords": [
         "uspdev",
-        "starter"
+        "webprint"
     ],
     "license": "MIT",
     "require": {
